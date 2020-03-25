@@ -37,25 +37,4 @@ function bai2cach1(num){
 
   // console.log(bai2cach1(15))
 
-
-
-
-  // function bai2cach1(n){
-  //   let arr = [0, 1];
-  //   for (let i = 2; i < n + 1; i++){
-  //     arr.push(arr[i - 2] + arr[i -1])
-  //   }
-  //  return arr[n]
-  // }
-  // console.log("Bai 2")
-  // //   console.log(bai2cach1(150));
-
-  // function bai2cach2(n) {
-  //   if (n < 2){
-  //     return n
-  //   }
-  //   return bai2cach2(n - 1) + bai2cach2 (n - 2)
-  // }
-  // console.log(bai2cach1(15))
-
   
